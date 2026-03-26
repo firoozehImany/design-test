@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="relative w-full overflow-hidden">
       <Mountains />
       <div className="absolute inset-x-0 bottom-10 md:bottom-16 z-10 flex justify-center">
-        {/* <SocialLinks /> */}
+        <SocialLinks />
       </div>
     </footer>
   );
